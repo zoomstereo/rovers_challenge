@@ -20,3 +20,4 @@ Missing to implement
 
 -   Already favorited validation
 -   Better not found display
+-   Tests
